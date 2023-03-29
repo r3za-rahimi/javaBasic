@@ -1,6 +1,8 @@
-import person.Person;
-import shape.Circle;
-import shape.Cylinder;
+package src;
+
+import src.person.Person;
+import src.shape.Circle;
+import src.shape.Cylinder;
 
 public class Main {
     public static void main(String[] args) {

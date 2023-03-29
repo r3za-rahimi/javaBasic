@@ -1,4 +1,4 @@
-package person;
+package src.person;
 
 public class Person {
 
